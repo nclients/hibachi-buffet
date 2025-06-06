@@ -69,7 +69,8 @@ sections:
     bgColor: "#000000"
     bgOpacity: "0.2" # 0~1
     title: 
-      - "Hibachi Buffet Sushi and Grill"
+      - "Hibachi Buffet"
+      - "Sushi and Grill"
     titleColor: "#ffffff"
     description: 
       - "The largest buffet restaurant in Sacramento! All you can eat seafood, steak, Chinese, sushi and more."
@@ -92,7 +93,7 @@ sections:
     btn2Text: "" 
     btn2Href: "" 
 
-    bannerImg: "sample.webp"
+    bannerImg: "main.webp"
     imgPosition: "imgLeft" # imgLeft | imgRight
     bannerMarginTopMobile: 20
     imgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
@@ -101,11 +102,22 @@ sections:
     bottomRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
     # bottomInfo: "We offer Takeout"
 
+# Video
+  - type: "video"
+    id: ""
+    title: 
+      - "Hibachi Buffet Sushi and Grill"
+    description: 
+      - "Voted No.1 by ‘Taste of America’" 
+    videoType: "gjw" # vimeo | gjw | youtube
+    videoId: 
+      - "1gueft0keol4QZp7RqibZLYsR1co1c"
+    isOnlyDisplayOnMobile: false
 
 # Gallery  
   - type: "gallery"
     id: "gallery"
-    mode: 4 # 1 - 3
+    mode: 3 # 1 - 3
     bgImg: ""
     bgColor: ""
     bgOpacity: "" # 0~1
@@ -120,17 +132,6 @@ sections:
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
-# Video
-  - type: "video"
-    id: ""
-    title: 
-      - "Hibachi Buffet Sushi and Grill"
-    description: 
-      - "Voted No.1 by ‘Taste of America’" 
-    videoType: "gjw" # vimeo | gjw | youtube
-    videoId: 
-      - "1gueft0keol4QZp7RqibZLYsR1co1c"
-    isOnlyDisplayOnMobile: false
 
 # Gallery  
   - type: "gallery"
