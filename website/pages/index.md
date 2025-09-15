@@ -13,7 +13,7 @@ cuid: ""
 ruid: ""
 orderOnlineLink: ""
 tableReservationLink: ""
-tel: "279-348-8088"
+tel: "(916) 961-1508"
 
 # banner:
 #   text:
@@ -281,8 +281,8 @@ sections:
     url: "https://maps.app.goo.gl/CLiwh79HrXhQDvMd6"
     iframeUrl: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6230.312759730883!2d-121.272976!3d38.668274!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809adf84c7c0d6d3%3A0x8ad478e11209fd52!2sHibachi%20Buffet%2C%20Sushi%20%26%20Grill!5e0!3m2!1sen!2sus!4v1749231481974!5m2!1sen!2sus"
     addTelBtn: true
-    tel: "279-348-8088"
-    telInsteadText: "279-348-8088"
+    tel: "9169611508"
+    telInsteadText: "(916) 961-1508"
     tel2: "" # if there are two phone numbers
     tel2InsteadText: ""
     getDirectionBtnInsteadText: ""
