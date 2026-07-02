@@ -4,7 +4,7 @@ tag: "GTM-NW2CFJFM" #GTM-xxx
 googleSiteVerification: ""
 title: "Hibachi Buffet Sushi and Grill - Best Food Today"
 favicon: "favicon.ico"
-logo: "logo.png"
+logo: "logo.webp"
 primaryColor: "#FA720F" # logo color
 secondaryColor: "#ffffff"
 primaryColorScheme: "dark" # dark | light
@@ -32,7 +32,7 @@ header:
     size: 16
     color: ""
   showTextAfterLogoOnMobile: false
-  logoOnMobile: "" # e.g., 'logo.png'. Set a logo for mobile that is different from the desktop.
+  logoOnMobile: "" # e.g., 'logo.webp'. Set a logo for mobile that is different from the desktop.
 
   bgColor: "#030303"
   bgOpacity: "0.8" # 0~1
