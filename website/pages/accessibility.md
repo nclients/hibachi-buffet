@@ -2,7 +2,7 @@
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
 tag: ""
 googleSiteVerification: "" 
-title: "Hibachi Buffet Sushi and Grill - Best Food Today"
+title: "Hibachi Buffet Sushi and Grill"
 favicon: "favicon.ico"
 logo: "logo.webp"
 primaryColor: "#FA720F" # logo color
@@ -107,4 +107,4 @@ footer:
   paymentMethod: "applePay,visa,amex,alipay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
 ---
-<!-- Powered by Best Food Today -->
+<!-- Powered by -->
