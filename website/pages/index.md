@@ -1,6 +1,6 @@
 ---
 layout: "ssg-theme-astro/layouts/main.astro" # This line of code should remain unchanged.
-tag: ""
+tag: "GTM-NW2CFJFM"
 googleSiteVerification: ""
 title: "Hibachi Buffet Sushi and Grill - Best Food Today"
 favicon: "favicon.ico"
@@ -305,6 +305,7 @@ sections:
 #     buttonText: ""
 
 footer:
+  cookie: true
   mode: 1 # 1
   noMarginTop: true
   bgImg: ""
